@@ -4,7 +4,7 @@ import time, network
 from umqtt.simple import MQTTClient
 
 # Configuração
-MQTT_CLIENT_ID = "conectESP32"
+MQTT_CLIENT_ID = "efa12c78-8a7b-42e6-8cec-36075729cc75"
 MQTT_BROKER = "broker.mqttdashboard.com"
 TOPIC_SEND = "exp.criativas/espparapcRay"
 TOPIC_RECEIVE = "exp.criativas/pcparaespRay"
